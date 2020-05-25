@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Client\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>

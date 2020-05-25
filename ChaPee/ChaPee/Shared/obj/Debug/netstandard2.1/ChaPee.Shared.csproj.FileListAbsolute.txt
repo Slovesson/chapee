@@ -1,0 +1,9 @@
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\bin\Debug\netstandard2.1\ChaPee.Shared.deps.json
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\bin\Debug\netstandard2.1\ChaPee.Shared.dll
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\obj\Debug\netstandard2.1\ChaPee.Shared.csprojAssemblyReference.cache
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\obj\Debug\netstandard2.1\ChaPee.Shared.AssemblyInfoInputs.cache
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\obj\Debug\netstandard2.1\ChaPee.Shared.AssemblyInfo.cs
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\bin\Debug\netstandard2.1\ChaPee.Shared.pdb
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\obj\Debug\netstandard2.1\ChaPee.Shared.csproj.CoreCompileInputs.cache
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\obj\Debug\netstandard2.1\ChaPee.Shared.dll
+D:\Programming\.Net\ASP.Net-Core\ChaPee\ChaPee\ChaPee\Shared\obj\Debug\netstandard2.1\ChaPee.Shared.pdb
